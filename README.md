@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏡 WanderNest
+# 🏡 Wanderlust
 
 ### *Find your perfect stay, anywhere in the world.*
 
